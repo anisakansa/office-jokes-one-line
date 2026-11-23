@@ -1,0 +1,1 @@
+{"description":"Office Jokes — writes one original one-liner about office life to /output/entry.txt","license":"MIT","main":"main.ts","name":"office-jokes-one-line","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
